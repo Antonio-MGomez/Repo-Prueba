@@ -1,2 +1,6 @@
 hola loco
+<<<<<<< Updated upstream
 loquillo eres un maquina
+=======
+que pasa manin mastodonte
+>>>>>>> Stashed changes
